@@ -34,7 +34,7 @@ An AI-powered Virtual Mouse that uses **hand gesture recognition** and **compute
     python Main.py
 
 
-🎮 Gestures
+## 🎮 Gestures
 
 Index Finger Up → Move Cursor
 
@@ -45,7 +45,7 @@ Pinch (Index + Middle) → Left Click
 Index + Thumb → Right Click
 
 
-📊 Results
+## 📊 Results
 
 Cursor Move Accuracy: 99.5%
 
